@@ -1,0 +1,29 @@
+Postcode district,Post town,Coverage,Local authority area,Latitude,Longitude
+SE1,LONDON,"South Eastern head district: Bankside, South Bank, Lambeth (part), Southwark, Bermondsey (part), Vauxhall (part), Old Kent Road (part)","Lambeth, Southwark, City of London (part)",51.50183269999999,-0.09095099999999999
+SE2,LONDON,"Abbey Wood district: Abbey Wood, West Heath, Crossness, Thamesmead (part), Plumstead (part)","Bexley, Greenwich",51.4860421,0.1202586
+SE3,LONDON,"Blackheath district: Blackheath, Kidbrooke, Westcombe Park","Greenwich, Lewisham",51.46771529999999,0.0175685
+SE4,LONDON,"Brockley district: Brockley, Crofton Park",Lewisham,51.4598337,-0.0322047
+SE5,LONDON,"Camberwell district: Camberwell, Denmark Hill, Peckham, Brixton (part)","Southwark, Lambeth",51.475561,-0.0908654
+SE6,LONDON,"Catford district: Catford, Bellingham, Hither Green (part)",Lewisham,51.4362068,-0.0175487
+SE7,LONDON,Charlton district: Charlton,Greenwich,51.4860974,0.0380983
+SE8,LONDON,"Deptford district: Deptford, Evelyn, Rotherhithe (part)","Greenwich, Lewisham, Southwark",51.4808467,-0.0263676
+SE9,LONDON,"Eltham district: Eltham, Mottingham, New Eltham, Well Hall, Avery Hill (part), Falconwood (part), Sidcup (part), Chinbrook (part), Longlands (part) Kidbrooke (part), Shooter's Hill (part)","Bexley, Bromley, Greenwich, Lewisham",51.4414439,0.05853159999999999
+SE10,LONDON,"Greenwich district: Greenwich, Maze Hill, Greenwich Peninsula","Greenwich, Lewisham",51.4808496,-0.002929
+SE11,LONDON,"Kennington district: Kennington, Lambeth (part), Vauxhall (part)","Lambeth, Southwark",51.4913079,-0.1085333
+SE12,LONDON,"Lee district: Lee, Mottingham, Grove Park, Chinbrook, Hither Green (part), Eltham (part), Horn Park, Blackheath (part)","Greenwich, Lewisham, Bromley",51.446708,0.0175553
+SE13,LONDON,"Lewisham district: Lewisham, Hither Green, Ladywell","Greenwich, Lewisham",51.457212,-0.0058533
+SE14,LONDON,New Cross district: New Cross,Lewisham,51.47559,-0.038084
+SE15,LONDON,"Peckham district: Peckham, Nunhead, South Bermondsey (part), Old Kent Road (part)","Lewisham, Southwark",51.4703269,-0.0615237
+SE16,LONDON,"Rotherhithe district: Rotherhithe (part), Surrey Quays, South Bermondsey (part)","Lewisham, Southwark",51.4966022,-0.0498457
+SE17,LONDON,"Walworth district: Walworth, Kennington (part), Newington",Southwark,51.4873809,-0.09237150000000001
+SE18,LONDON,"Woolwich district: Woolwich, Royal Arsenal, Plumstead, Shooter's Hill","Bexley, Greenwich",51.47819819999999,0.07620529999999999
+SE19,LONDON,"Norwood district: Upper Norwood, Crystal Palace","Bromley, Croydon, Lambeth, Lewisham, Southwark",51.4178045,-0.08482229999999999
+SE20,LONDON,"Anerley district: Anerley, Crystal Palace (part), Penge, Beckenham (part)",Bromley,51.4125706,-0.0613966
+SE21,LONDON,"Dulwich district: Dulwich, Dulwich Village, West Dulwich, Tulse Hill (part)","Lambeth, Southwark",51.4388026,-0.08488609999999999
+SE22,LONDON,"East Dulwich district: East Dulwich, Dulwich Village (part), Peckham Rye, Loughborough Junction, Herne Hill",Southwark,51.4545635,-0.0732101
+SE23,LONDON,"Forest Hill district: Forest Hill, Honor Oak, Crofton Park (part)","Lewisham, Southwark",51.4440733,-0.049752
+SE24,LONDON,"Herne Hill district: Herne Hill, Tulse Hill (part), Dulwich (part)","Lambeth, Southwark",51.4545465,-0.09666079999999999
+SE25,LONDON,"South Norwood district: South Norwood, Selhurst (part), Thornton Heath (part), Woodside (part)",Croydon,51.396821,-0.0730589
+SE26,LONDON,"Sydenham district: Sydenham, Crystal Palace (part)","Bromley, Lewisham, Southwark",51.42832019999999,-0.0555772
+SE27,LONDON,"West Norwood district: West Norwood, Gipsy Hill (part)",Lambeth,51.4282887,-0.102429
+SE28,LONDON,Thamesmead district: Thamesmead,"Bexley, Greenwich",51.5018178,0.1085742

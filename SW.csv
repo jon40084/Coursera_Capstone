@@ -1,0 +1,28 @@
+Postcode district,Post town,Coverage,Local authority area,Latitude,Longitude
+SW1A,LONDON,Whitehall and Buckingham Palace,Westminster,51.5031092,-0.1306184
+SW1E,LONDON,between Buckingham Gate and Victoria Station,Westminster,51.4985016,-0.1386791
+SW1H,LONDON,east of Buckingham Gate,Westminster,51.4998238,-0.1313378
+SW1P,LONDON,"triangular area between Victoria Station, the Houses of Parliament, and Vauxhall Bridge",Westminster,51.4952265,-0.1305815
+SW1V,LONDON,"triangular area between Vauxhall Bridge, Chelsea Bridge, and Victoria Station; Pimlico proper",Westminster,51.48996169999999,-0.1393712
+SW1W,LONDON,"Belgravia, Chelsea (part), area between Sloane Square and Victoria Station, south of Kings Road","Kensington and Chelsea, Westminster",51.4925782,-0.1482011
+SW1X,LONDON,"Belgravia, north of Eaton Square, Knightsbridge (part), Chelsea (part)","Kensington and Chelsea, Westminster",51.4978255,-0.1541088
+SW1Y,LONDON,St James's,Westminster,51.5077055,-0.1328448
+SW2,LONDON,"Brixton district: Brixton Hill, Tulse Hill, Brixton, Streatham Hill, Clapham (part), Eastern parts of Balham, Lambeth",Lambeth,51.4492735,-0.1201004
+SW3,LONDON,"Chelsea district: Chelsea, Brompton, Knightsbridge (part)",Kensington and Chelsea,51.4912472,-0.1614216
+SW4,LONDON,"Clapham district: Clapham, Stockwell (part)","Lambeth, Wandsworth",51.4597574,-0.137753
+SW5,LONDON,Earls Court district: Earls Court,Kensington and Chelsea,51.4925144,-0.1923088
+SW6,LONDON,"Fulham district: Fulham, Parsons Green",Hammersmith and Fulham,51.4754218,-0.2024825
+SW7,LONDON,"South Kensington district: South Kensington, Knightsbridge (part)","Kensington and Chelsea, Westminster",51.4964852,-0.173215
+SW8,LONDON,"South Lambeth district: South Lambeth, Wandsworth Road, Vauxhall, Battersea:Nine Elms (part), Clapham (part), NW area of Stockwell, Oval","Lambeth, Wandsworth",51.4755221,-0.1319576
+SW9,LONDON,"Stockwell district: Brixton, Stockwell, Clapham (part), Oval",Lambeth,51.4676639,-0.1113757
+SW10,LONDON,"West Brompton district: West Brompton, Chelsea (west)","Hammersmith and Fulham, Kensington and Chelsea",51.48071340000001,-0.1789965
+SW11,LONDON,"Battersea head district: Battersea(mostly), Clapham South","Lambeth, Wandsworth",51.46761,-0.1583477
+SW12,LONDON,"Balham district: Balham, Clapham South, Wandsworth Common (part)","Lambeth, Wandsworth",51.4439889,-0.1494105
+SW13,LONDON,"Barnes district: Barnes, Barnes Bridge","Richmond upon Thames, Hounslow",51.4779764,-0.2407488
+SW14,LONDON,"Mortlake district: Mortlake, East Sheen, Chiswick Bridge","Richmond upon Thames, Hounslow",51.4647869,-0.2671196
+SW15,LONDON,"Putney district: Putney, Roehampton, Kingston Vale, Putney Heath, Putney Vale, Richmond Park, Roehampton Vale","Kingston upon Thames, Richmond upon Thames, Wandsworth",51.4569895,-0.228805
+SW16,LONDON,"Streatham district: Streatham, Streatham Common, Norbury, Streatham Park, Furzedown, Streatham Vale, Mitcham Common, Pollards Hill, Eastfields","Croydon, Lambeth, Merton, Wandsworth",51.420389,-0.1287668
+SW17,LONDON,"Tooting district: Tooting, Mitcham (part) Balham (part)","Merton, Wandsworth",51.42560229999999,-0.1581097
+SW18,LONDON,"Wandsworth district: Wandsworth Town, Southfields, Earlsfield",Wandsworth,51.4465501,-0.193461
+SW19,LONDON,"Wimbledon district: Wimbledon, Colliers Wood, Merton Park, Merton Abbey, Southfields, Morden (part)","Merton, Wandsworth",51.4255297,-0.2050566
+SW20,LONDON,"West Wimbledon district: Raynes Park, Lower Morden, Merton Park, Wimbledon Chase",Merton,51.4071223,-0.2254618

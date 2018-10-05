@@ -1,0 +1,26 @@
+Postcode district,Post town,Coverage,Local authority area,Latitude,Longitude
+W1B,LONDON,"Portland Place, Regent Street",Westminster,51.5185358,-0.1420878
+W1C,LONDON,Oxford Street (west),Westminster,51.5147506,-0.1477673
+W1D,LONDON,"Soho (south east); Chinatown, Soho Square",Westminster,51.5142789,-0.1299356
+W1F,LONDON,Soho (north west),Westminster,51.5142722,-0.1358166
+W1G,LONDON,Harley Street,Westminster,51.51951649999999,-0.1461377
+W1H,LONDON,Marylebone,Westminster,51.5188412,-0.1601099
+W1J,LONDON,"Mayfair (south), Piccadilly, Royal Academy",Westminster,51.50834769999999,-0.1453441
+W1K,LONDON,"Mayfair (north), Grosvenor Square",Westminster,51.51096829999999,-0.15124
+W1S,LONDON,"Mayfair (east), Hanover Square, Savile Row",Westminster,51.51163889999999,-0.1402147
+W1T,LONDON,"Fitzrovia, Tottenham Court Road",Camden,51.5188742,-0.1336332
+W1U,LONDON,Marylebone,Westminster,51.518849,-0.1542249
+W1W,LONDON,"Great Portland Street, Fitzrovia",Westminster,51.5195236,-0.1402543
+W2,LONDON,"Paddington head district: Paddington, Bayswater, Hyde Park, Westbourne Green, Little Venice (part), Notting Hill (part)","Westminster, Kensington and Chelsea",51.5096281,-0.1703541
+W3,LONDON,"Acton district: Acton, West Acton, North Acton (part), South Acton, East Acton (west), Park Royal (south), Hanger Hill Garden Estate, Gunnersbury Park","Ealing, Hounslow, Hammersmith and Fulham",51.5120752,-0.2675725
+W4,LONDON,"Chiswick district: Chiswick, Gunnersbury, Turnham Green, Acton Green, South Acton (part), Bedford Park","Hounslow, Ealing, Hammersmith and Fulham",51.4884335,-0.2644
+W5,LONDON,"Ealing district: Ealing, South Ealing, Ealing Common, North Ealing, Northfields, (south and east), Pitshanger, Hanger Lane","Ealing, Hounslow",51.5093689,-0.299988
+W6,LONDON,"Hammersmith district: Hammersmith, Ravenscourt Park, Stamford Brook (part)","Hammersmith and Fulham, Hounslow",51.4911405,-0.2261411
+W7,LONDON,"Hanwell district: Hanwell, Boston Manor (part)","Ealing, Hounslow",51.5119096,-0.3324815
+W8,LONDON,"Kensington district: Kensington, Holland Park (part)",Kensington and Chelsea,51.501713,-0.1909008
+W9,LONDON,"Maida Hill district: Maida Hill, Maida Vale, Little Venice (part)","Westminster, Brent, Camden",51.5280043,-0.18519
+W10,LONDON,"North Kensington district: North Kensington, Kensal Town, Ladbroke Grove (north), Queen's Park (part)","Kensington and Chelsea, Westminster, Hammersmith and Fulham, Brent",51.52269709999999,-0.2146099
+W11,LONDON,"Notting Hill district: Notting Hill, Ladbroke Grove (south), Holland Park (part)","Kensington and Chelsea, Westminster, Hammersmith and Fulham",51.5121945,-0.2086389
+W12,LONDON,"Shepherds Bush district: Shepherds Bush, White City, Wormwood Scrubs, East Acton (east)",Hammersmith and Fulham,51.5095281,-0.229236
+W13,LONDON,"West Ealing district: West Ealing, Northfields (north and west)",Ealing,51.51719869999999,-0.3207339
+W14,LONDON,"West Kensington district: West Kensington, Kensington Olympia, Holland Park","Hammersmith and Fulham, Kensington and Chelsea",51.4964278,-0.2085211

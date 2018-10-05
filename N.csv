@@ -1,0 +1,24 @@
+Postcode district,Post town,Coverage,Local authority area,Latitude,Longitude
+N1,LONDON,"Northern head district: Barnsbury (part), Canonbury, Kings Cross, Islington, Pentonville, De Beauvoir Town, Hoxton. Shoreditch (part)","Hackney, Islington, Camden",51.5412621,-0.08813879999999999
+N1C,LONDON,Kings Cross Central,Camden,51.5372851,-0.1248931
+N2,LONDON,"East Finchley district: East Finchley, Fortis Green, Hampstead Garden Suburb (part)","Barnet, Haringey",51.5911503,-0.1679017
+N3,LONDON,"Finchley district: Finchley, Church End, Finchley Central",Barnet,51.60164,-0.1915857
+N4,LONDON,"Finsbury Park district: Finsbury Park, Manor House, Harringay (part), Stroud Green","Haringey, Islington, Hackney",51.5728114,-0.1000159
+N5,LONDON,"Highbury district: Highbury, Highbury Fields","Islington, Hackney (part)",51.5544028,-0.0970072
+N6,LONDON,"Highgate district: Highgate, Hampstead Heath (part)","Camden, Haringey, Islington",51.5753887,-0.1501155
+N7,LONDON,"Holloway district: Holloway, Barnsbury (part), Islington (part), Tufnell Park (part)","Islington, Camden",51.5543869,-0.1146658
+N8,LONDON,"Hornsey district: Hornsey, Crouch End, Harringay (part)","Haringey, Islington",51.5833118,-0.1236257
+N9,LONDON,"Lower Edmonton district: Lower Edmonton, Edmonton (part)",Enfield,51.62810440000001,-0.0559765
+N10,LONDON,"Muswell Hill district: Muswell Hill, South Friern","Haringey, Barnet",51.59644429999999,-0.1443287
+N11,LONDON,"New Southgate district: New Southgate, Friern Barnet, Bounds Green, Arnos Grove (part)","Enfield, Barnet, Haringey",51.6175062,-0.1385339
+N12,LONDON,"North Finchley district: North Finchley, Woodside Park, Friern Barnet (part)",Barnet,51.61745029999999,-0.1798758
+N13,LONDON,Palmers Green district: Palmers Green,Enfield,51.6175426,-0.1031259
+N14,LONDON,"Southgate district: Southgate, Oakwood, Arnos Grove (part)","Enfield, Barnet",51.6359512,-0.1238593
+N15,LONDON,"South Tottenham district: South Tottenham, Harringay (part), West Green, Seven Sisters, Stamford Hill (part)","Hackney, Haringey",51.5833519,-0.07649299999999999
+N16,LONDON,"Stoke Newington district: Stoke Newington, Stamford Hill (part), Shacklewell, Dalston (part), Newington Green (part)","Islington, Hackney",51.5623078,-0.0764353
+N17,LONDON,"Tottenham district: Tottenham, Wood Green (part)",Haringey,51.59388939999999,-0.0529637
+N18,LONDON,"Upper Edmonton district: Upper Edmonton, Edmonton (part)",Enfield,51.61493060000001,-0.0765796
+N19,LONDON,"Upper Holloway district: Upper Holloway, Archway, Tufnell Park (part)","Islington, Camden",51.5648883,-0.1323808
+N20,LONDON,"Whetstone district: Whetstone, Totteridge, Oakleigh Park",Barnet,51.63585519999999,-0.1947779
+N21,LONDON,"Winchmore Hill district: Winchmore Hill, Bush Hill, Grange Park",Enfield,51.6359737,-0.1002426
+N22,LONDON,"Wood Green district: Wood Green, Bounds Green (part), Bowes Park","Haringey, Enfield",51.6017398,-0.1148607
